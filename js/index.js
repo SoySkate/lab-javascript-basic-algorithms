@@ -184,3 +184,4 @@ console.log(palindromeCheck(phraseToCheck));
 // }
 // }
 // AQUEST ULTIM ES POT FER AMB EL SWITCH UNA MICA MES FCIL XD
+// bueno aquest no jaajaja but
